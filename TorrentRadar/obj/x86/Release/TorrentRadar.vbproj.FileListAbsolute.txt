@@ -1,0 +1,13 @@
+C:\Users\christopher\documents\visual studio 2010\Projects\TorrentRadar\TorrentRadar\bin\Release\TorrentRadar.exe.manifest
+C:\Users\christopher\documents\visual studio 2010\Projects\TorrentRadar\TorrentRadar\bin\Release\TorrentRadar.application
+C:\Users\christopher\documents\visual studio 2010\Projects\TorrentRadar\TorrentRadar\bin\Release\TorrentRadar.exe
+C:\Users\christopher\documents\visual studio 2010\Projects\TorrentRadar\TorrentRadar\bin\Release\TorrentRadar.pdb
+C:\Users\christopher\documents\visual studio 2010\Projects\TorrentRadar\TorrentRadar\bin\Release\TorrentRadar.xml
+C:\Users\christopher\documents\visual studio 2010\Projects\TorrentRadar\TorrentRadar\obj\x86\Release\TorrentRadar.Form1.resources
+C:\Users\christopher\documents\visual studio 2010\Projects\TorrentRadar\TorrentRadar\obj\x86\Release\TorrentRadar.Resources.resources
+C:\Users\christopher\documents\visual studio 2010\Projects\TorrentRadar\TorrentRadar\obj\x86\Release\TorrentRadar.vbproj.GenerateResource.Cache
+C:\Users\christopher\documents\visual studio 2010\Projects\TorrentRadar\TorrentRadar\obj\x86\Release\TorrentRadar.exe.manifest
+C:\Users\christopher\documents\visual studio 2010\Projects\TorrentRadar\TorrentRadar\obj\x86\Release\TorrentRadar.application
+C:\Users\christopher\documents\visual studio 2010\Projects\TorrentRadar\TorrentRadar\obj\x86\Release\TorrentRadar.exe
+C:\Users\christopher\documents\visual studio 2010\Projects\TorrentRadar\TorrentRadar\obj\x86\Release\TorrentRadar.xml
+C:\Users\christopher\documents\visual studio 2010\Projects\TorrentRadar\TorrentRadar\obj\x86\Release\TorrentRadar.pdb
